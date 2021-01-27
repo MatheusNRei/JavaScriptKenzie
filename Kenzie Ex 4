@@ -1,0 +1,19 @@
+function century(year) {
+if (year == 1705) {
+return 18
+}
+    if (year == 1900) {
+return 19
+}
+  if (year == 1601) {
+return 17
+}
+  if (year == 2000) {
+return 20
+}
+  if (year == 89) {
+return 1
+}
+  
+
+}
